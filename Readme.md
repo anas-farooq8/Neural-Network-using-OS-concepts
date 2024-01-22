@@ -3,11 +3,11 @@
 ## Requirements
 - C++
 ### - Libraries used:
+* #include <isotream>
+* #include <fstream>
 * #include <cstdlib.h>
 * #include <unistd.h>
 * #include <sys/types.h>
-* #include <iostream>
-* #include <fstream>
 * #include <string.h>
 * #include <sstream>
 * #include <vector>
